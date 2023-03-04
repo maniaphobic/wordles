@@ -1,19 +1,9 @@
 #+TITLES: Wordle Wisdom
-#+OPTIONS: html-postamble: nil toc:nil
+#+OPTIONS: html-postamble:nil toc:nil num:0
 
-* 600
+* 620
 
 * 621, 2023-03-02
-
-#+begin_example
-
-
-  ⬜⬜🟨⬜⬜
-  ⬜🟨⬜🟩🟩
-  🟩🟩🟩🟩🟩
-
-  Heading into the golden tunnel of Thessaloniki
-#+end_example
 
 #+begin_src text
 
@@ -52,5 +42,16 @@
 
 #+end_src
 
-* 623
+* 623, 2023-03-04
+
+#+begin_src text
+
+  ⬜🟨⬜⬜🟨
+  🟩🟨🟨⬜🟨
+  🟩🟩🟩⬜🟨
+  🟩🟩🟩🟩🟩
+
+  Me cranking my neck to watch a movie in the front row                  
+
+#+end_src
 

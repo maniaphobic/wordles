@@ -1,7 +1,899 @@
 #+TITLES: Wordle Wisdom
 #+OPTIONS: html-postamble:nil toc:nil num:0
 
-* 620
+* 500, 2022-11-01
+
+#+begin_src
+#+end_src
+
+* 501, 2022-11-02
+
+#+begin_src
+#+end_src
+
+* 502, 2022-11-03
+
+#+begin_src
+#+end_src
+
+* 503, 2022-11-04
+
+#+begin_src
+#+end_src
+
+* 504, 2022-11-05
+
+#+begin_src
+#+end_src
+
+* 505, 2022-11-06
+
+#+begin_src
+#+end_src
+
+* 506, 2022-11-07
+
+#+begin_src
+#+end_src
+
+* 507, 2022-11-08
+
+#+begin_src
+#+end_src
+
+* 508, 2022-11-09
+
+#+begin_src
+#+end_src
+
+* 509, 2022-11-10
+
+#+begin_src
+#+end_src
+
+* 510, 2022-11-11
+
+#+begin_src
+#+end_src
+
+* 511, 2022-11-12
+
+#+begin_src
+#+end_src
+
+* 512, 2022-11-13
+
+#+begin_src
+#+end_src
+
+* 513, 2022-11-14
+
+#+begin_src
+#+end_src
+
+* 514, 2022-11-15
+
+#+begin_src
+#+end_src
+
+* 515, 2022-11-16
+
+#+begin_src
+#+end_src
+
+* 516, 2022-11-17
+
+#+begin_src
+#+end_src
+
+* 517, 2022-11-18
+
+#+begin_src
+#+end_src
+
+* 518, 2022-11-19
+
+#+begin_src
+#+end_src
+
+* 519, 2022-11-20
+
+#+begin_src
+#+end_src
+
+* 520, 2022-11-21
+
+#+begin_src
+#+end_src
+
+* 521, 2022-11-22
+
+#+begin_src
+#+end_src
+
+* 522, 2022-11-23
+
+#+begin_src
+#+end_src
+
+* 523, 2022-11-24
+
+#+begin_src
+#+end_src
+
+* 524, 2022-11-25
+
+#+begin_src
+#+end_src
+
+* 525, 2022-11-26
+
+#+begin_src
+#+end_src
+
+* 526, 2022-11-27
+
+#+begin_src
+#+end_src
+
+* 527, 2022-11-28
+
+#+begin_src
+#+end_src
+
+* 528, 2022-11-29
+
+#+begin_src
+#+end_src
+
+* 529, 2022-11-30
+
+#+begin_src
+#+end_src
+
+* 530, 2022-12-01
+
+#+begin_src
+#+end_src
+
+* 531, 2022-12-02
+
+#+begin_src
+#+end_src
+
+* 532, 2022-12-03
+
+#+begin_src
+#+end_src
+
+* 533, 2022-12-04
+
+#+begin_src
+#+end_src
+
+* 534, 2022-12-05
+
+#+begin_src
+#+end_src
+
+* 535, 2022-12-06
+
+#+begin_src
+#+end_src
+
+* 536, 2022-12-07
+
+#+begin_src
+#+end_src
+
+* 537, 2022-12-08
+
+#+begin_src
+#+end_src
+
+* 538, 2022-12-09
+
+#+begin_src
+#+end_src
+
+* 539, 2022-12-10
+
+#+begin_src
+#+end_src
+
+* 540, 2022-12-11
+
+#+begin_src
+#+end_src
+
+* 541, 2022-12-12
+
+#+begin_src
+#+end_src
+
+* 542, 2022-12-13
+
+#+begin_src
+#+end_src
+
+* 543, 2022-12-14
+
+#+begin_src
+#+end_src
+
+* 544, 2022-12-15
+
+#+begin_src
+#+end_src
+
+* 545, 2022-12-16
+
+#+begin_src
+#+end_src
+
+* 546, 2022-12-17
+
+#+begin_src
+#+end_src
+
+* 547, 2022-12-18
+
+#+begin_src
+#+end_src
+
+* 548, 2022-12-19
+
+#+begin_src
+#+end_src
+
+* 549, 2022-12-20
+
+#+begin_src
+#+end_src
+
+* 550, 2022-12-21
+
+#+begin_src
+#+end_src
+
+* 551, 2022-12-22
+
+#+begin_src
+#+end_src
+
+* 552, 2022-12-23
+
+#+begin_src
+#+end_src
+
+* 553, 2022-12-24
+
+#+begin_src
+#+end_src
+
+* 554, 2022-12-25
+
+#+begin_src
+#+end_src
+
+* 555, 2022-12-26
+
+#+begin_src
+#+end_src
+
+* 556, 2022-12-27
+
+#+begin_src
+#+end_src
+
+* 557, 2022-12-28
+
+#+begin_src
+#+end_src
+
+* 558, 2022-12-29
+
+#+begin_src
+#+end_src
+
+* 559, 2022-12-30
+
+#+begin_src
+#+end_src
+
+* 560, 2022-12-31
+
+#+begin_src
+#+end_src
+
+* 561, 2023-01-01
+
+#+begin_src
+#+end_src
+
+* 562, 2023-01-02
+
+#+begin_src
+#+end_src
+
+* 563, 2023-01-03
+
+#+begin_src
+#+end_src
+
+* 564, 2023-01-04
+
+#+begin_src
+#+end_src
+
+* 565, 2023-01-05
+
+#+begin_src
+#+end_src
+
+* 566, 2023-01-06
+
+#+begin_src
+#+end_src
+
+* 567, 2023-01-07
+
+#+begin_src
+#+end_src
+
+* 568, 2023-01-08
+
+#+begin_src
+#+end_src
+
+* 569, 2023-01-09
+
+#+begin_src
+#+end_src
+
+* 570, 2023-01-10
+
+#+begin_src
+#+end_src
+
+* 571, 2023-01-11
+
+#+begin_src
+#+end_src
+
+* 572, 2023-01-12
+
+#+begin_src
+#+end_src
+
+* 573, 2023-01-13
+
+#+begin_src
+#+end_src
+
+* 574, 2023-01-14
+
+#+begin_src
+#+end_src
+
+* 575, 2023-01-15
+
+#+begin_src
+#+end_src
+
+* 576, 2023-01-16
+
+#+begin_src
+#+end_src
+
+* 577, 2023-01-17
+
+#+begin_src
+#+end_src
+
+* 578, 2023-01-18
+
+#+begin_src
+#+end_src
+
+* 579, 2023-01-19
+
+#+begin_src
+#+end_src
+
+* 580, 2023-01-20
+
+#+begin_src
+#+end_src
+
+* 581, 2023-01-21
+
+#+begin_src
+#+end_src
+
+* 582, 2023-01-22
+
+#+begin_src
+#+end_src
+
+* 583, 2023-01-23
+
+#+begin_src
+#+end_src
+
+* 584, 2023-01-24
+
+#+begin_src
+#+end_src
+
+* 585, 2023-01-25
+
+#+begin_src
+#+end_src
+
+* 586, 2023-01-26
+
+#+begin_src
+#+end_src
+
+* 587, 2023-01-27
+
+#+begin_src
+#+end_src
+
+* 588, 2023-01-28
+
+#+begin_src
+#+end_src
+
+* 589, 2023-01-29
+
+#+begin_src
+#+end_src
+
+* 590, 2023-01-30
+
+#+begin_src
+#+end_src
+
+* 591, 2023-01-31
+
+#+begin_src
+#+end_src
+
+* 592, 2023-02-01
+
+#+begin_src
+#+end_src
+
+* 593, 2023-02-02
+
+#+begin_src
+#+end_src
+
+* 594, 2023-02-03
+
+#+begin_src
+#+end_src
+
+* 595, 2023-02-04
+
+#+begin_src
+#+end_src
+
+* 596, 2023-02-05
+
+#+begin_src
+#+end_src
+
+* 597, 2023-02-06
+
+#+begin_src
+#+end_src
+
+* 598, 2023-02-07
+
+#+begin_src
+#+end_src
+
+* 599, 2023-02-08
+
+#+begin_src
+#+end_src
+
+* 600, 2023-02-09
+
+#+begin_src text
+      Wordle 600 6/6
+
+      🟩🟩🟩⬜⬜
+      🟩🟩🟩⬜🟩
+      🟩🟩🟩⬜🟩
+      🟩🟩🟩⬜🟩
+      🟩🟩🟩⬜🟩
+      🟩🟩🟩🟩🟩
+
+      Discovering a sinkhole while digging small holes for spring bulbs
+      was a very frustrating experience                                   09.02.23
+
+
+      A Space Invaders enemy ship recharging before returning to the
+      fight:
+
+      Wordle 600 4/6
+
+      ⬜🟨🟨🟨⬜
+      ⬜🟨🟩🟨⬜
+      🟨⬜🟩⬜🟨
+      🟩🟩🟩🟩🟩                                                          09.02.23✔
+#+end_src
+
+* 601, 2023-02-10
+
+
+#+begin_src text
+      Wordle 601 5/6
+
+      ⬜⬜🟩⬜⬜
+      ⬜⬜🟩⬜🟨
+      ⬜🟩🟩⬜🟩
+      ⬜🟩🟩🟩🟩
+      🟩🟩🟩🟩🟩
+
+      Starry starry night                                                 10.02.23
+  (K) Ken M @syntropyst                                                                
+      Mt. Everest is much less impressive when you're 50,000' tall:
+
+      Wordle 601 3/6
+
+      ⬜🟨⬜⬜🟨
+      ⬜🟨🟩⬜⬜
+      🟩🟩🟩🟩🟩                                                          10.02.23✔
+#+end_src
+* 602, 2023-02-11
+
+
+#+begin_src text
+      Wordle 602 4/6
+
+      ⬜⬜⬜⬜⬜
+      ⬜⬜⬜⬜🟨
+      🟨⬜🟨⬜🟨
+      🟩🟩🟩🟩🟩
+
+      When the vegetable garden finally starts to emerge
+    
+#+end_src
+* 603, 2023-02-12
+
+
+#+begin_src text
+  Wordle 603 3/6
+
+      ⬜🟨🟩🟨🟨
+      🟨🟨🟩⬜🟩
+      🟩🟩🟩🟩🟩
+
+      Pottery stacked next to the kiln                                    12.02.23
+  (K) Ken M @syntropyst                                                                
+      "He has the putt lined up and sends the ball on its way. Looks
+      good, tracking straight for the hole, and oh wow, what terrible
+      luck, the hole spontaneously morphed from an innie to an outie..."
+
+      Wordle 603 3/6
+
+      ⬜⬜⬜⬜⬜
+      🟨⬜🟩⬜⬜
+      🟩🟩🟩🟩🟩                                                          
+#+end_src
+* 604, 2023-02-13
+
+
+#+begin_src text
+      Wordle 604 4/6
+
+      🟨⬜🟩⬜⬜
+      ⬜⬜🟩🟨⬜
+      ⬜🟨🟩⬜🟨
+      🟩🟩🟩🟩🟩
+
+      Everyone was amazed at how high Tina got when she spiked the
+      ball. It’s hard to get that much height on a sand volleyball
+      court!
+#+end_src
+* 605, 2023-02-14
+
+
+#+begin_src text
+  Wordle 605 3/6
+
+      🟩⬜⬜⬜🟨
+      🟩⬜🟨⬜⬜
+      🟩🟩🟩🟩🟩
+
+      Sunbathing in the 80s. Coconut oil, Pat Benatar, and Capri Sun
+    
+#+end_src
+* 606, 2023-02-15
+
+
+#+begin_src text
+  Wordle 606 3/6
+
+      🟩⬜🟨⬜⬜
+      🟩🟩🟩⬜⬜
+      🟩🟩🟩🟩🟩
+
+      The giant awoke from his nap to discover an enchanted golden zit
+      had emerged on his nose                                             15.02.23
+  (K) Ken M @syntropyst                                                                
+      One brave NASA engineer approaches the rocket, trying to determine
+      why the fuel didn't ignite, while another hangs back, saying,
+      “I'll be there after I check out this weird thing over here..."
+
+      Wordle 606 5/6
+
+      ⬛🟩⬛⬛⬛
+      ⬛🟩⬛⬛⬛
+      ⬛🟩⬛⬛⬛
+      ⬛🟩🟨⬛🟨
+      🟩🟩🟩🟩🟩                                                          
+#+end_src
+* 607, 2023-02-16
+
+
+#+begin_src text
+  Wordle 607 4/6
+
+      ⬜⬜🟨🟩⬜
+      🟨⬜⬜🟩⬜
+      ⬜🟩⬜🟩⬜
+      🟩🟩🟩🟩🟩
+
+      An early 1900s moving daguerreotype of a young woman dunking a
+      rugby ball
+    
+#+end_src
+* 608, 2023-02-17
+
+
+#+begin_src text
+  Wordle 608 3/6
+
+      ⬜⬜🟨⬜⬜
+      ⬜🟩⬜🟨🟨
+      🟩🟩🟩🟩🟩
+
+      Little known fact: King Midas liked to wear flip flops              
+
+      An asp caught on a wildlife camera walking like an Egyptian:
+
+      Wordle 608 4/6
+
+      🟩⬛⬛⬛⬛
+      🟩⬛🟨🟨⬛
+      🟩🟨🟨⬛🟩
+      🟩🟩🟩🟩🟩                                                          
+#+end_src
+* 609, 2023-02-18
+
+
+#+begin_src text
+      Wordle 609 4/6
+
+      ⬜⬜🟩🟩⬜
+      ⬜🟨🟩🟩⬜
+      ⬜⬜🟩🟩🟩
+      🟩🟩🟩🟩🟩
+
+      King Midas made the mistake of booping the nose of the sphinx
+    
+#+end_src
+* 610, 2023-02-19
+
+
+#+begin_src text
+  Wordle 610 5/6
+
+      🟨⬜⬜🟨⬜
+      ⬜⬜🟨🟩🟩
+      ⬜⬜🟨🟩🟩
+      🟨⬜⬜⬜⬜
+      🟩🟩🟩🟩🟩
+
+      Frustrated, Belinda sat on the edge of the diving board, sized up
+      Tony, and considered whether she really wanted to jump in to join
+      him.
+    
+#+end_src
+* 611, 2023-02-20
+
+
+#+begin_src text
+  Wordle 611 3/6
+
+      🟩🟨🟨⬜⬜
+      🟩🟩🟩🟩⬜
+      🟩🟩🟩🟩🟩
+
+      Waking up in a mummy bag
+    
+#+end_src
+* 612, 2023-02-21
+
+
+#+begin_src text
+  Wordle 612 5/6
+
+      ⬜⬜⬜⬜⬜
+      ⬜⬜⬜⬜⬜
+      ⬜🟩🟨⬜🟩
+      🟩🟩⬜⬜🟩
+      🟩🟩🟩🟩🟩
+
+      Turn to the right and you have a French drip lemonade dispenser     21.02.23
+  (K) Ken M @syntropyst                                                                
+      Georgia Tech's mascot captured during a solemn moment after an
+      especially tough loss
+
+      Wordle 612 4/6
+
+      ⬛⬛⬛🟩⬛
+      ⬛⬛🟨🟩🟩
+      ⬛🟨🟨🟩🟩
+      🟩🟩🟩🟩🟩
+    
+#+end_src
+* 613, 2023-02-22
+
+
+#+begin_src text
+  Wordle 613 3/6
+
+      ⬜⬜⬜🟨⬜
+      🟨🟨🟨⬜🟨
+      🟩🟩🟩🟩🟩
+
+      The inchworm continued on her way to the tree, grateful for a
+      sunny spring day
+    
+#+end_src
+* 614, 2023-02-23
+
+
+#+begin_src text
+  Wordle 614 4/6
+
+      ⬜⬜🟨⬜⬜
+      ⬜🟩⬜🟨🟩
+      🟨🟩🟨⬜🟩
+      🟩🟩🟩🟩🟩
+
+      A play by play of the libero’s anti-gravity set                     23.02.23
+  (K) Ken M @syntropyst                                                                
+      The scene from The Wire where gangsters ambush the cops after the
+      former turn street signs to confuse the latter:
+
+      Wordle 614 4/6
+
+      ⬛⬛🟨⬛🟩
+      ⬛🟩⬛⬛🟩
+      ⬛🟩⬛⬛🟩
+      🟩🟩🟩🟩🟩
+    
+#+end_src
+* 615, 2023-02-24
+
+
+#+begin_src text
+  Wordle 615 3/6
+
+      ⬜⬜🟨⬜⬜
+      ⬜🟨🟨⬜⬜
+      🟩🟩🟩🟩🟩
+
+      Golden Buddha sitting on a mossy patch of very luck guess
+#+end_src
+* 616, 2023-02-25
+
+
+#+begin_src text
+  Wordle 616 4/6
+
+      ⬜🟨⬜🟨⬜
+      ⬜🟩🟨⬜⬜
+      🟨🟩⬜⬜🟩
+      🟩🟩🟩🟩🟩
+
+      The water balloon fight was decidedly imbalanced                    25.02.23
+  (K) Ken M @syntropyst                                                                
+      "Action" photo of the steeplechase at the Cube Olympics:
+
+      Wordle 616 4/6
+
+      ⬛⬛⬛⬛⬛
+      ⬛⬛⬛⬛🟨
+      ⬛🟩🟨⬛🟩
+      🟩🟩🟩🟩🟩                                                          
+#+end_src
+* 617, 2023-02-26
+
+
+#+begin_src text
+  Wordle 617 5/6
+
+      🟩⬜⬜⬜⬜
+      🟩⬜⬜🟨⬜
+      🟩🟨🟨⬜⬜
+      🟩🟨⬜🟨⬜
+      🟩🟩🟩🟩🟩
+
+      The bottom of the human pyramid waited patiently for everyone else
+      to show up
+#+end_src
+* 618, 2023-02-27
+
+#+begin_src text
+  Wordle 618 3/6
+
+      🟨⬜⬜⬜⬜
+      ⬜🟨🟨🟩🟩
+      🟩🟩🟩🟩🟩
+
+      Me sleeping in on a Saturday as the sun shines in through my
+      window                                                                   Mon
+  (K) Ken M @syntropyst                                                                
+      The light saber training remote backs a timid Luke against the
+      wall of the Millennium Falcon
+
+      Wordle 618 3/6
+
+      🟩🟨⬜🟨⬜
+      🟩🟨⬜⬜🟩
+      🟩🟩🟩🟩🟩                                                               
+#+end_src
+
+* 619, 2023-02-28
+
+#+begin_src text
+  Wordle 619 5/6
+
+      ⬜⬜🟨⬜⬜
+      🟨🟨⬜⬜⬜
+      🟨🟨🟨⬜⬜
+      ⬜🟩🟩⬜🟩
+      🟩🟩🟩🟩🟩
+
+      The genie came out of the bottle and scowled. He’d only just
+      fallen asleep! Surely the wishes could wait until morning…               
+#+end_src
+
+
+* 620, 2023-03-01
+
+#+begin_src text
+    Wordle 620 5/6
+
+    🟨⬜⬜⬜⬜
+    ⬜🟩🟨🟨⬜
+    ⬜🟩⬜🟩🟩
+    ⬜🟩🟩🟩🟩
+    🟩🟩🟩🟩🟩
+
+    Tai chi in the park went awry when the practitioners discovered
+    they were bending their arms the wrong way                               
+
+      Scene from Aesop's remarkably prescient fable, "Rabbit and Firefly
+      Go Raving"
+
+      Wordle 620 4/6
+
+      ⬛⬛⬛⬛⬛
+      ⬛⬛🟨⬛🟨
+      🟩🟨⬛🟩⬛
+      🟩🟩🟩🟩🟩
+
+#+end_src
 
 * 621, 2023-03-02
 

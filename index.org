@@ -954,3 +954,45 @@
   🟩🟩🟩🟩🟩
 #+end_src
 
+* 624, 2023-03-05
+
+#+begin_src text
+  Wordle 624 4/6
+
+      ⬜🟨⬜🟩⬜
+      🟩⬜⬜🟩⬜
+      🟩⬜⬜🟩⬜
+      🟩🟩🟩🟩🟩
+
+      Man bows his head at the wailing wall                                  00:33
+  (K) Ken M @syntropyst                                                                
+      When viewed right to left, the man (right) prayed so intensely
+      that he pulled a stone from the wall. Please observe the temple's
+      "replace your divets" policy, sir                                      07:38✓
+
+      Flintstone-era prototype of the human-bicycle hybrid. A key
+      innovation in later models was round wheels
+
+      ⬛⬛⬛⬛🟨
+      ⬛🟩🟨🟩⬛
+      🟩🟩⬛🟩🟩
+      🟩🟩⬛🟩🟩
+      🟩🟩🟩🟩🟩                                                             
+
+
+
+#+end_src
+
+* 625, 2023-03-06
+
+#+begin_src text
+
+      ⬜⬜⬜🟨🟨
+      🟨⬜🟨⬜⬜
+      🟩🟩⬜🟩🟩
+      🟩🟩🟩🟩🟩
+
+      The snail’s shell has a retractable roof
+
+#+end_src
+

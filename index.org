@@ -3,502 +3,562 @@
 
 * 500, 2022-11-01
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 501, 2022-11-02
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 502, 2022-11-03
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 503, 2022-11-04
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 504, 2022-11-05
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 505, 2022-11-06
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 506, 2022-11-07
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 507, 2022-11-08
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 508, 2022-11-09
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 509, 2022-11-10
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 510, 2022-11-11
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 511, 2022-11-12
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 512, 2022-11-13
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 513, 2022-11-14
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 514, 2022-11-15
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 515, 2022-11-16
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 516, 2022-11-17
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 517, 2022-11-18
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 518, 2022-11-19
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 519, 2022-11-20
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 520, 2022-11-21
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 521, 2022-11-22
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 522, 2022-11-23
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 523, 2022-11-24
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 524, 2022-11-25
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 525, 2022-11-26
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 526, 2022-11-27
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 527, 2022-11-28
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 528, 2022-11-29
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 529, 2022-11-30
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 530, 2022-12-01
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 531, 2022-12-02
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 532, 2022-12-03
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 533, 2022-12-04
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 534, 2022-12-05
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 535, 2022-12-06
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 536, 2022-12-07
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 537, 2022-12-08
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 538, 2022-12-09
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 539, 2022-12-10
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 540, 2022-12-11
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 541, 2022-12-12
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 542, 2022-12-13
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 543, 2022-12-14
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 544, 2022-12-15
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 545, 2022-12-16
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 546, 2022-12-17
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 547, 2022-12-18
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 548, 2022-12-19
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 549, 2022-12-20
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 550, 2022-12-21
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 551, 2022-12-22
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 552, 2022-12-23
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 553, 2022-12-24
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 554, 2022-12-25
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 555, 2022-12-26
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 556, 2022-12-27
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 557, 2022-12-28
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 558, 2022-12-29
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 559, 2022-12-30
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 560, 2022-12-31
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 561, 2023-01-01
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 562, 2023-01-02
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 563, 2023-01-03
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 564, 2023-01-04
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 565, 2023-01-05
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 566, 2023-01-06
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 567, 2023-01-07
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 568, 2023-01-08
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 569, 2023-01-09
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 570, 2023-01-10
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 571, 2023-01-11
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 572, 2023-01-12
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 573, 2023-01-13
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 574, 2023-01-14
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 575, 2023-01-15
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 576, 2023-01-16
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 577, 2023-01-17
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 578, 2023-01-18
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 579, 2023-01-19
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 580, 2023-01-20
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 581, 2023-01-21
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 582, 2023-01-22
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 583, 2023-01-23
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 584, 2023-01-24
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 585, 2023-01-25
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 586, 2023-01-26
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 587, 2023-01-27
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 588, 2023-01-28
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 589, 2023-01-29
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 590, 2023-01-30
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 591, 2023-01-31
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 592, 2023-02-01
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 593, 2023-02-02
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 594, 2023-02-03
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 595, 2023-02-04
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 596, 2023-02-05
 
-#+begin_src
+#+begin_src text
 #+end_src
 
 * 597, 2023-02-06
 
-#+begin_src
+#+begin_src text
+
+  ⬜🟨⬜🟨🟨
+  🟩🟩🟨⬜⬜
+  🟩🟩⬜🟨🟨
+  🟩🟩🟩🟩🟩
+
+  The giant egg beater roamed across the plains, looking for cake
+  batter to fluff                                                     
+
+  Utensis aeratii (var. colossus) is a solitary creature. It behaves
+  aggressively when encountering other members of its species, often
+  leaving one or both with stripped gears and bent handles            
+
+  It’s especially dangerous to encounter one in June, which is
+  widely known as wedding cake season. The landscape will be
+  peppered with white flakes of buttercream and the detritus of a
+  defeated colossus.                                                  
+
+  Every olde timey movie where a rail bridge collapses and a train
+  falls into a ravine:
+
+
+
+  ⬜⬜⬜🟨🟨
+  ⬜⬜🟨🟩🟩
+  ⬜🟩⬜🟩🟩
+  🟩🟩🟩🟩🟩                                                          
+  Alternatively, smoke wafting away from a quaint rural cabin
 #+end_src
 
 * 598, 2023-02-07
 
-#+begin_src
+#+begin_src text
+  ⬜⬜🟨⬜⬜
+  🟨🟨⬜⬜🟩
+  🟩⬜⬜🟩🟩
+  🟩🟩🟩🟩🟩
+
+  The mermaid-gorgon hybrid, laying on a sandy Grecian beach          
+
+  The bouncy castle had a bit too much spring, launching one child
+  to the Karman Line:
+
+   Wordle 598 5/6
+
+  ⬛⬛⬛🟨⬛
+  ⬛🟨⬛⬛⬛
+  ⬛🟨⬛⬛🟩
+  🟩⬛⬛⬛🟩
+  🟩🟩🟩🟩🟩                                                          
 #+end_src
 
 * 599, 2023-02-08
 
-#+begin_src
+#+begin_src text
+
+  ⬜⬜🟩🟩⬜
+  ⬜⬜🟩🟩🟩
+  🟩🟩🟩🟩🟩
+
+  Turned to the right, it’s the new biodegradable 100% lichen
+  GreenPee toilet                                                     
+
+
+  The moment two thrill-seekers devise the human zipline:
+
+   🟨⬜⬜⬜⬜
+   ⬜🟨⬜🟩🟩
+   ⬜⬜🟩🟩🟩
+   🟩🟩🟩🟩🟩                                                          
 #+end_src
 
 * 600, 2023-02-09

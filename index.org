@@ -1097,6 +1097,26 @@
 
   Curling from the stone’s POV
 
-    
+
+  Snapshot of the usual scramble for the decent seats on a Southwest Air flight:
+
+
+  ⬜⬜🟨🟩🟨
+  🟩🟩🟨🟩⬜
+  🟩🟩🟩🟩🟩
+#+end_src
+
+* 628, 2023-03-09
+
+#+begin_src text
+
+  ⬜⬜⬜⬜⬜
+  ⬜🟨⬜⬜🟩
+  ⬜🟨⬜⬜🟩
+  ⬜🟨🟨⬜🟩
+  🟩🟩🟩🟩🟩                                                             
+  The giant L approached the word “lama”, certain it was meant to be
+  there despite the strange looks it was getting from the other four
+  letters.
 #+end_src
 

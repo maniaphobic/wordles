@@ -1121,6 +1121,7 @@
 
     A and M had deep scars from the betrayal that characterized their
     relationship with S and C, so it took a while for them to trust L
+<<<<<<< HEAD
 
   The yin-yang symbol as it appeared in the early Atari video game
   "Shaolin Showdown":
@@ -1133,6 +1134,8 @@
   If you look very closely, you’ll see the praying mantis ninja crouching behind the yin.
 
   Yeah, that's a tough boss character. I needed a couple of weeks to move past it to the robo-shogun
+=======
+>>>>>>> 76bed45 (Update 628)
 #+end_src
 
 * 629, 2023-03-10

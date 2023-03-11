@@ -1122,7 +1122,6 @@
     A and M had deep scars from the betrayal that characterized their
     relationship with S and C, so it took a while for them to trust L
 
-
   The yin-yang symbol as it appeared in the early Atari video game
   "Shaolin Showdown":
 
@@ -1130,5 +1129,30 @@
   🟩🟩⬜⬜🟩
   🟩🟩⬜⬜🟩
   🟩🟩🟩🟩🟩
+
+  If you look very closely, you’ll see the praying mantis ninja crouching behind the yin.
+
+  Yeah, that's a tough boss character. I needed a couple of weeks to move past it to the robo-shogun
+#+end_src
+
+* 629, 2023-03-10
+
+#+begin_src text
+  ⬜⬜⬜⬜⬜
+  ⬜🟨⬜🟨🟨
+  🟩🟩🟩⬜🟨
+  🟩🟩🟩🟩🟩
+
+  The robot waited patiently for the engineer to return and reattach its head
+
+  You know you're in a bind when you time travel to 19th century America and find Data's severed head
+
+  Though overshadowed by the "Who do you think you are?" video, the incident when opponent Joshua Tree secretly hammered a depression into the bowling lane sent Pete Weber into an equally epic rage:
+
+  ⬜⬜⬜⬜🟩
+  ⬜🟨⬜⬜🟩
+  🟩🟩⬜🟩🟩
+  🟩🟩🟩🟩🟩
+
 #+end_src
 

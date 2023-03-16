@@ -1267,5 +1267,12 @@
 
   Let's see, the reverse of "chase" would be something like "flee" or
   "retreat", so... Steepleflee? Steepleretreat?
+
+  In arguably the Matrix franchise's most boring combat sequence, Agent Smith tries to steal a balloon from Neo:
+
+  🟩⬜⬜⬜⬜
+  🟩⬜⬜⬜🟨
+  🟩🟨⬜🟩⬜
+  🟩🟩🟩🟩🟩
 #+end_src
 

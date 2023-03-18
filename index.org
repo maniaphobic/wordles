@@ -1268,11 +1268,36 @@
   Let's see, the reverse of "chase" would be something like "flee" or
   "retreat", so... Steepleflee? Steepleretreat?
 
+  "This is the church, this is the steeple, HOLY SPIRES AND FLÈCHES, IT'S JESUS, RUN!!!"
+
   In arguably the Matrix franchise's most boring combat sequence, Agent Smith tries to steal a balloon from Neo:
 
   🟩⬜⬜⬜⬜
   🟩⬜⬜⬜🟨
   🟩🟨⬜🟩⬜
   🟩🟩🟩🟩🟩
+
 #+end_src
+
+* 635, 2023-03-16
+
+#+begin_src text
+#+end_src
+
+* 636, 2023-03-17
+
+#+begin_src text
+
+
+
+  Balancing a bed on a pedestal and calling it art does not, repeat
+  not, make it art:
+
+  ⬜⬜⬜🟨⬜
+  ⬜🟨🟨🟨⬜
+  ⬜🟩🟩⬜⬜
+  🟩🟩🟩🟩🟩
+#+end_src
+
+
 

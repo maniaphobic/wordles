@@ -1299,5 +1299,57 @@
   🟩🟩🟩🟩🟩
 #+end_src
 
+* 637, 2023-03-018
+
+#+begin_src text
 
 
+
+
+
+  The pommel human discipline of the gymnastics event at the Equine Olympics:
+
+  ⬜⬜⬜🟨⬜
+  🟨🟨🟨⬜⬜
+  ⬜🟩🟨🟩⬜
+  🟩🟩🟩🟩🟩
+#+end_src
+
+* 638, 2023-03-19
+
+#+begin_src text
+  ⬜⬜⬜⬜⬜
+  🟨🟩🟨⬜🟨
+  🟨🟩🟨🟨⬜
+  🟩🟩🟩🟩🟩
+
+  The new team tennis tournament, played entirely by mushroom
+  spores, very quickly became unwatchable.
+
+  "When Entertainment and Sporets Programming Network launched in
+  1979, its target demographic was principally professional and
+  amateur mycologists. Threatened with cancellation by abysmal
+  ratings, ESPN changed "Sporets" to "Sports" and diversified its
+  programming to broaden its appeal."
+
+  Action photo of "Shuttlecock Shamu", the legendary orca badminton player:
+
+  ⬜⬜⬜⬜🟨
+  🟨⬜🟨⬜⬜
+  🟩🟨🟨🟨🟨
+  🟩🟩🟩🟩🟩
+#+end_src
+
+* 639, 2023-03-20
+
+#+begin_src text
+  ⬜⬜⬜⬜⬜
+  ⬜⬜🟩🟩🟩
+  🟩🟩🟩🟩🟩
+
+  The winners podium was empty after every single F1 driver was sissued a
+  60 minute penalty for impudence
+
+  It's a righteous protest against the word "box", which has a vulgar sexist connotation
+
+#+end_src

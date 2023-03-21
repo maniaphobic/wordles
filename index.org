@@ -1104,6 +1104,8 @@
   ⬜⬜🟨🟩🟨
   🟩🟩🟨🟩⬜
   🟩🟩🟩🟩🟩
+
+  Abstract but captures the angst of boarding the aircraft. A+
 #+end_src
 
 * 628, 2023-03-09
@@ -1121,7 +1123,6 @@
 
     A and M had deep scars from the betrayal that characterized their
     relationship with S and C, so it took a while for them to trust L
-<<<<<<< HEAD
 
   The yin-yang symbol as it appeared in the early Atari video game
   "Shaolin Showdown":
@@ -1134,8 +1135,7 @@
   If you look very closely, you’ll see the praying mantis ninja crouching behind the yin.
 
   Yeah, that's a tough boss character. I needed a couple of weeks to move past it to the robo-shogun
-=======
->>>>>>> 76bed45 (Update 628)
+
 #+end_src
 
 * 629, 2023-03-10
@@ -1282,12 +1282,36 @@
 * 635, 2023-03-16
 
 #+begin_src text
+
+  ⬜⬜⬜🟨⬜
+  ⬜🟨🟨🟨🟨
+  🟨🟩🟨⬜🟨
+  🟩🟩🟩🟩🟩
+
+  The giant banana oozed slowly across the valley, leaving tipped cars and smooshed farm equipment in its wake
+
+
+
+  The crocodile spent the whole extraction procedure cursing its affinity for sweets:
+
+  ⬛⬛⬛🟩🟩
+  ⬛⬛⬛🟩🟩
+  🟨⬛🟨🟩🟩
+  🟩🟩🟩🟩🟩
+
+  Oh, that one is so good. Sugar hater, alligator!
 #+end_src
 
 * 636, 2023-03-17
 
 #+begin_src text
 
+  ⬜⬜🟩⬜⬜
+  ⬜⬜🟩⬜🟨
+  ⬜🟩🟩🟩⬜
+  🟩🟩🟩🟩🟩
+
+  The ant queen basejumped off the anthill and set off to see the world. She was tired of being responsible.
 
 
   Balancing a bed on a pedestal and calling it art does not, repeat
@@ -1299,13 +1323,19 @@
   🟩🟩🟩🟩🟩
 #+end_src
 
-* 637, 2023-03-018
+* 637, 2023-03-18
 
 #+begin_src text
 
 
+  ⬜🟨🟨⬜⬜
+  🟨🟩⬜⬜⬜
+  ⬜🟩🟨🟨🟨
+  🟩🟩🟩🟩🟩
 
+  March Madnezzzzz is much sticker when they cover the floor and hoop with honey
 
+  I like it. Inhibiting the ability to jump makes it a bit like netball, with the additional complications of honey sticking to every part of a player's body
 
   The pommel human discipline of the gymnastics event at the Equine Olympics:
 
@@ -1358,4 +1388,18 @@
   ⬜🟩🟩⬜🟩
   ⬜🟩🟩⬜🟩
   🟩🟩🟩🟩🟩
+#+end_src
+
+* 640, 2023-03-21
+
+#+begin_src text
+
+  ⬜🟨⬜⬜⬜
+  🟩⬜🟨⬜⬜
+  🟩🟩🟩⬜🟩
+  🟩🟩🟩🟩🟩
+
+  Professional leapfrog is riskier when there are sinkholes on the course
+
+  I'll never understand how the Akkadians played it *with* spiked footwear and *without* orthopedic surgery
 #+end_src

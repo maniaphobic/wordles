@@ -1,32 +1,50 @@
 #+TITLES: Wordle Wisdom
 #+OPTIONS: html-postamble:nil toc:nil num:0
 
-* 500, 2022-11-01
+* 500, 2022-10-31
+
+#+begin_src text
+
+  ⬜⬜⬜🟨🟨
+  🟨🟨🟨⬜⬜
+  ⬜🟩🟩⬜🟨
+  ⬜🟩🟩🟩⬜
+  ⬜🟩🟩🟩⬜
+  🟩🟩🟩🟩🟩
+
+  Storm moving in above the tower
+
+  Wordzilla rising from the depths of the Adverbic Ocean
+
+  ASD kid building a pyramid and anxious about the asymmetry
+
+  ⬛⬛🟩⬛⬛
+  ⬛⬛🟩🟩⬛
+  ⬛🟩🟩🟩⬛
+  🟩🟩🟩🟩🟩
+#+end_src
+
+* 501, 2022-11-01
 
 #+begin_src text
 #+end_src
 
-* 501, 2022-11-02
+* 502, 2022-11-02
 
 #+begin_src text
 #+end_src
 
-* 502, 2022-11-03
+* 503, 2022-11-03
 
 #+begin_src text
 #+end_src
 
-* 503, 2022-11-04
+* 504, 2022-11-04
 
 #+begin_src text
 #+end_src
 
-* 504, 2022-11-05
-
-#+begin_src text
-#+end_src
-
-* 505, 2022-11-06
+* 505, 2022-11-05
 
 #+begin_src text
 #+end_src
@@ -485,6 +503,8 @@
 
 #+begin_src text
 #+end_src
+
+
 
 * 597, 2023-02-06
 

@@ -1,0 +1,20 @@
+---
+id: 639
+date: "2023-03-20"
+solutions:
+  - solution: |
+      ⬜⬜⬜⬜⬜
+      ⬜⬜🟩🟩🟩
+      🟩🟩🟩🟩🟩
+    solver: erin
+    interpretations:
+      - "The winner's podium was empty after every single F1 driver was issued a 60 minute penalty for impudence"
+      - "It's a righteous protest against the word \"box\", which has a vulgar sexist connotation"
+  - solution: |
+      ⬜⬜⬜⬜🟩
+      ⬜🟩🟩⬜🟩
+      ⬜🟩🟩⬜🟩
+      🟩🟩🟩🟩🟩
+    solver: ken
+    interpretations:
+      - "Silhouette of the mythical Block Ness Monster"

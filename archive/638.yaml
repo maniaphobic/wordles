@@ -1,0 +1,22 @@
+---
+id: 638
+date: "2023-03-19"
+solutions:
+  - solution: |
+    ⬜⬜⬜⬜⬜
+    🟨🟩🟨⬜🟨
+    🟨🟩🟨🟨⬜
+    🟩🟩🟩🟩🟩
+    solver: erin
+    interpretations:
+      - "The new team tennis tournament, played entirely by mushroom spores, very quickly became unwatchable."
+      - "\"When Entertainment and Sporets Programming Network launched in 1979, its target demographic was principally professional and amateur mycologists. Threatened with cancellation by abysmal ratings, ESPN changed \"Sporets\" to \"Sports\" and diversified its programming to broaden its appeal.\""
+  - solution: |
+    ⬜⬜⬜⬜🟨
+    🟨⬜🟨⬜⬜
+    🟩🟨🟨🟨🟨
+    🟩🟩🟩🟩🟩
+    solver: ken
+    interpretations:
+      - "Action photo of \"Shuttlecock Shamu\", the legendary orca badminton player"
+      - "That’s one deadly serve from a Delphinidae, Dave!"

@@ -1,0 +1,20 @@
+---
+id: 643
+date: "2023-03-24"
+solutions:
+  - solution: |
+      ⬜🟨⬜⬜⬜
+      🟨🟩🟩⬜⬜
+      🟩🟩🟩🟩🟩
+    solver: erin
+    interpretations:
+      - "The mermaid lounged on the rock, her blond hair cascading into the waves, waiting for a ship to sink"
+      - "Is a mermaid a lazy Siren, or is a Siren a pro-active mermaid? Hmm..."
+  - solution: |
+      ⬜⬜⬜🟨⬜
+      ⬜🟨🟨🟨⬜
+      🟩🟩🟩🟩🟩
+    solver: ken
+    interpretations:
+      - "In a classic Star Wars outtake, everyone falls out of the landspeeder and it happily carries on without them, eventually crashing into George Lucas's AMC Gremlin"
+      - "I think this is how Short Circuit was written. And Cocoon."

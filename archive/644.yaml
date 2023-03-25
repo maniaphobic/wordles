@@ -3,10 +3,10 @@ id: 644
 date: "2023-03-25"
 solutions:
   - solution: |
-    ⬜🟨⬜⬜⬜
-    🟨🟨🟨⬜🟨
-    ⬜🟩🟩🟩🟩
-    🟩🟩🟩🟩🟩
+      ⬜🟨⬜⬜⬜
+      🟨🟨🟨⬜🟨
+      ⬜🟩🟩🟩🟩
+      🟩🟩🟩🟩🟩
     solver: erin
     interpretations:
       - "The Sphinx got a new Easter bonnet but suspected it might be a bit

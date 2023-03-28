@@ -1,0 +1,20 @@
+---
+id: 647
+date: "2023-03-28"
+solutions:
+  - solution: |
+      ⬜⬜⬜⬜⬜
+      ⬜🟨⬜⬜⬜
+      🟨🟩⬜⬜🟩
+      ⬜🟩🟩🟩🟩
+      🟩🟩🟩🟩🟩
+    solver: erin
+    interpretations:
+      - "What no one anticipated is that the pups would then suddenly combine into a giant Frankenhund"
+      - "This is what happens when you think you can play god. Now chewing on the furniture and peeing on the carpet are the least of our worries"
+  - solution: |
+      
+    solver: ken
+    interpretations:
+      - ""
+      - ""

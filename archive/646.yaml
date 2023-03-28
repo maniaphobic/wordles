@@ -11,11 +11,14 @@ solutions:
     solver: erin
     interpretations:
       - "The first person to yell “Geronimo!” as they leapt from a tall
-    height was not in fact a tribal chief but a dumb teenage boy
-    jumping into a deep reservoir. He was fine but bystanders were
-    confused."
+      height was not in fact a tribal chief but a dumb teenage boy
+      jumping into a deep reservoir. He was fine but bystanders were
+      confused."
   - solution: |
-      
+      ⬜⬜⬜⬜⬜
+      ⬜🟩⬜⬜⬜
+      ⬜🟩🟨⬜🟨
+      🟩🟩🟩🟩🟩
     solver: ken
     interpretations:
-      - ""
+      - "The dachshunds cleverly knocked down Frankenstein's monster, then tickled it into submission"

@@ -1,0 +1,19 @@
+---
+id: 649
+date: "2023-03-30"
+solutions:
+  - solution: |
+      ⬜⬜🟨⬜⬜
+      ⬜🟨⬜⬜🟨
+      🟨🟨⬜🟩🟨
+      🟩🟩🟩🟩🟩
+    solver: erin
+    interpretations:
+      - "The self-closing bridge got stuck in the up position thanks for a pigeon who built her nest in front of the sensor."
+      - "That bird is a member of Instinctive Rebellion. Blocking a garage door sensor attracted very little attention, so it decided the movement needed a truly disruptive act of avian disobedience. Note that it's also chained to the bridge."
+      - "I also see a giant cobra hovering menacingly above a courageous/foolish snake charmer"
+  - solution: |
+      
+    solver: ken
+    interpretations:
+      - ""
